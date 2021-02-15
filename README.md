@@ -7,4 +7,4 @@ $ pip2 install request
 $ pkg install git
 $ git clone https://github.com/ZakiGans/Trojans
 $ cd Trojans
-$ python2 trojans.py
+$ python2 Trojans.py
